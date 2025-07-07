@@ -120,6 +120,21 @@ aws ec2 run-instances --image-id ami-0abcdef1234567890 --instance-type t2.micro
 
 ---
 
+## Screehshots
+
+<img width="881" alt="Snipaste_2025-07-07_10-43-53" src="https://github.com/user-attachments/assets/51853103-b43c-4308-b569-31f9c11fdb2f" />
+
+
+<img width="746" alt="Snipaste_2025-07-07_10-42-39" src="https://github.com/user-attachments/assets/b0ab5802-5506-4a5e-9322-6361c7bb22f0" />
+
+
+<img width="1085" alt="Snipaste_2025-07-07_10-40-21" src="https://github.com/user-attachments/assets/4b0ec82e-1333-4033-ae0b-9bd104d18554" />
+
+
+<img width="1384" alt="Snipaste_2025-07-07_10-39-20" src="https://github.com/user-attachments/assets/6122ebfc-db6e-4b1e-99a7-e58876057bf1" />
+
+
+
 **Pro Tip**: Always log out from the AWS Console after use, especially on shared computers!  
 
 ```bash
