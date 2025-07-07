@@ -174,17 +174,24 @@ aws iam add-user-to-group --user-name mary --group-name Analysts-Team
 
 ---
 
-## **🚀 Next Steps**
-1. Implement **IAM Roles** for EC2 instances
-2. Set up **Permission Boundaries**
-3. Explore **AWS Organizations** for multi-account governance
+## Screeshots
 
-[![AWS IAM Documentation](https://img.shields.io/badge/AWS-IAM_Docs-blue)](https://docs.aws.amazon.com/IAM/latest/UserGuide/introduction.html)  
-[![Try in Console](https://img.shields.io/badge/AWS-Try_in_Console-orange)](https://console.aws.amazon.com/iam/)
+<img width="1391" alt="Snipaste_2025-07-07_14-29-08" src="https://github.com/user-attachments/assets/718f3fd3-9324-4351-9e0e-1e63b6fb6f70" />
 
-```bash
-# Cleanup reminder
-echo "Delete test users after project completion!" >> iam_cleanup.txt
-``` 
 
-This comprehensive README serves as both a project guide and long-term reference for AWS IAM best practices, with clear visual structure for GitHub rendering.
+<img width="1380" alt="Snipaste_2025-07-07_14-27-42" src="https://github.com/user-attachments/assets/e0dfe148-13ee-4ceb-98a3-240ec0acf9c8" />
+
+
+<img width="1379" alt="Snipaste_2025-07-07_14-26-44" src="https://github.com/user-attachments/assets/5ab32617-66d8-496f-9572-92b8ca8b963c" />
+
+
+<img width="1194" alt="Snipaste_2025-07-07_14-25-44" src="https://github.com/user-attachments/assets/b3a8bca8-7731-4956-82f6-332531d1145f" />
+
+
+<img width="1386" alt="Snipaste_2025-07-07_14-24-33" src="https://github.com/user-attachments/assets/d78a98dc-5c46-47e4-93ed-3aea03e16d80" />
+
+
+<img width="750" alt="Snipaste_2025-07-07_14-39-15" src="https://github.com/user-attachments/assets/c20fc891-555c-4814-a43f-6bf054ab6d50" />
+
+
+<img width="1087" alt="Snipaste_2025-07-07_14-37-54" src="https://github.com/user-attachments/assets/3e62c64e-f98d-4028-8ec3-5a21abf97559" />
