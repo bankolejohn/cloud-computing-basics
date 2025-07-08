@@ -167,6 +167,21 @@ aws s3api put-bucket-encryption \
 3. **Security Implementation**:
    - Granular public access control
    - Policy-based permission management
+  
+## Screenshots
+
+<img width="1375" alt="Snipaste_2025-07-08_19-39-58" src="https://github.com/user-attachments/assets/f8876406-bc29-4da8-bfba-761131a0e3b9" />
+
+
+<img width="1358" alt="Snipaste_2025-07-08_19-39-38" src="https://github.com/user-attachments/assets/f21c3724-3755-4ca1-b32e-9ea36822a04e" />
+
+
+<img width="1389" alt="Snipaste_2025-07-08_19-20-46" src="https://github.com/user-attachments/assets/d5a5159b-9955-4de6-8001-f9a3211230c4" />
+
+
+<img width="1380" alt="Snipaste_2025-07-08_19-20-14" src="https://github.com/user-attachments/assets/48f936ea-3a56-498a-a9c7-f96f2c03065c" />
+
+
 
 ### **Real-World Applications**
 - **Web Hosting**: Host static websites
