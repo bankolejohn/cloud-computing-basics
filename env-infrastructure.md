@@ -96,6 +96,18 @@ fi
 
 ---
 
+## Screenshots
+
+<img width="528" alt="Snipaste_2025-07-09_08-21-27" src="https://github.com/user-attachments/assets/72ff17c2-856e-47db-9081-20ef00374f8f" />
+
+
+<img width="455" alt="Snipaste_2025-07-09_08-20-43" src="https://github.com/user-attachments/assets/82bcb624-bcb0-46b1-848e-f63f8b398433" />
+
+
+<img width="484" alt="Snipaste_2025-07-09_08-20-11" src="https://github.com/user-attachments/assets/f33e4c3b-929c-411b-8280-0b7e24f49ddd" />
+
+
+
 ## **📈 Next Steps**  
 - [ ] Integrate **AWS AppConfig** for centralized settings  
 - [ ] Implement **CI/CD environment promotion**  
