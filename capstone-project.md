@@ -242,6 +242,22 @@ wordpress-aws-capstone/
 
 ---
 
+## Screenshots
+
+<img width="1388" alt="Snipaste_2025-07-08_23-32-08" src="https://github.com/user-attachments/assets/ad339fa4-9201-4fb5-91e5-95388f369a8a" />
+
+
+<img width="1379" alt="Snipaste_2025-07-08_23-31-42" src="https://github.com/user-attachments/assets/4f8a3de8-1a1c-401a-81d8-01672f92788b" />
+
+
+<img width="1383" alt="Snipaste_2025-07-08_23-31-10" src="https://github.com/user-attachments/assets/f617b12b-fb71-4930-bf82-af63900365a3" />
+
+
+<img width="1119" alt="Snipaste_2025-07-08_23-30-47" src="https://github.com/user-attachments/assets/57df4658-13c0-42a9-afe2-039abb9eda1e" />
+
+
+<img width="1393" alt="Snipaste_2025-07-08_22-44-18" src="https://github.com/user-attachments/assets/9a55d4bb-3cee-4be5-8108-dc892873825b" />
+
 ## 🤝 Contributors
 
 * **DigitalBoost DevOps Intern Team**
